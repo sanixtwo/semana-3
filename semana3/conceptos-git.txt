@@ -1,0 +1,18 @@
+Repositorio
+Se le considera  a un reposito git, aun lugar en el cuál se puedes guardar tus proyectos
+y los cambios o versiones que puede tener el programa durante toda la fase de
+desarrollo del misma además que dicho repositorio tiene la particularidad que puede
+estar de forma  local (en tu pc) o de forma remota, almacenada en la nube (GitHub).
+
+ 
+Commit
+Los commit en términos de git se le considera como una foto o registro de los cambios
+que sean realizado en tu proyecto en un momento y hora específicos, este cumple la
+funcionalidad poder guardar y agregar un comentario descriptivos, acerca de los,
+cambios y/o actualizaciones que se le realizaron al proyectos y serán subidos a un
+repositorio en remoto.
+
+Push
+Este es un comando de git el cual se usa para poder indicarle a nuestro sistema, que 
+se van subir los cambios  de nuestro repositorio local a nuestro repositorio remoto, 
+a los cuales previamente se les tuvo que haber asignado un commit.
